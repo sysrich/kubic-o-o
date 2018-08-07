@@ -68,8 +68,8 @@ This new approach brings with it the added benefit of giving us more freedom tha
 
 So if you have any ideas, or just need help to get started contributing, please don't hestitate to **get in touch with us!**
 
- * You can reach us on our new mailinglist - [mailto:opensuse-kubic@opensuse.org](opensuse-kubic@opensuse.org) 
- * To subscribe just email [mailto:opensuse-kubic+subscribe@opensuse.org](opensuse-kubic+subscribe@opensuse.org) 
+ * You can reach us on our new mailinglist - [mailto:opensuse-kubic@opensuse.org](mailto:opensuse-kubic@opensuse.org)
+ * To subscribe just email [mailto:opensuse-kubic+subscribe@opensuse.org](mailto:opensuse-kubic+subscribe@opensuse.org)
  * Or if you prefer IRC chat, you can find us in **#kubic** on irc.freenode.org
 
 We are currently using this [Trello board](https://trello.com/b/wjHyQDK6/kubic-project) to track and organise our work.  
