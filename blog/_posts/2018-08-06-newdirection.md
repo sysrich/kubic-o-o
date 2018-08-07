@@ -24,11 +24,11 @@ We haven't just been busy on the basesystem. Our efforts with [Rootless Containe
 When we started in May 2017, SUSE were already well underway developing their first version of SUSE CaaS Platform. Alongside the general goal of making Kubic the easiest-to-live-with community Kubernetes distribution, a big part of the intial premise was to establish itself as a 'close upstream' community for SUSE CaaS Platform. In order set things up in a way similar to that you see between openSUSE Tumbleweed and SUSE Linux Enterprise), the plan was to rebase the SUSE CaaS Stack, including the Velum cluster bootstrapping tool onto the shared Kubic/Tumbleweed codebase. After a year, this goal has still proven elusive.
 
 This is for a number of reasons, including the wonderfully fast pace of change of Tumbleweed and aspects of the initial design of SUSE CaaS Platform which was conceptualised for the needs of SUSE's commercial customers, with the needs of developing within Kubic being an afterthought.  
-Obviously, this status quo has been tricky for all of us involved in Kubic, with the collective feeling being a desire to simultaniously close the gap between the Kubic and SUSE CaaS codebases, while also keeping up with the ever evolving container landscape, especially surrounding Kubernetes.
+Obviously, this status quo has been tricky for all of us involved in Kubic, with the collective feeling being a desire to simultaneously close the gap between the Kubic and SUSE CaaS codebases, while also keeping up with the ever evolving container landscape, especially surrounding Kubernetes.
 
 # The world has shifted
 
-Mentioning Kubernetes, it's worth considering just how much has changed with kubernetes upstream in the 2 years since SUSE CaaS Platform development began. Back then there was no common tool for setting up and configuring a Kubernetes cluster. This was one of the primary motiviators for creating `Velum`, a key part of the SUSE CaaS Stack. However these days there are multiple tools, including the increasingly pervasive [kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/) which is used both standalone and as an integrated part of many larger solutions. 
+Mentioning Kubernetes, it's worth considering just how much has changed with Kubernetes upstream in the 2 years since SUSE CaaS Platform development began. Back then there was no common tool for setting up and configuring a Kubernetes cluster. This was one of the primary motivators for creating `Velum`, a key part of the SUSE CaaS Stack. However, these days there are multiple tools, including the increasingly pervasive [kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/) which is used both standalone and as an integrated part of many larger solutions. 
 
 Kubeadm has already been actively worked on by a number in the Kubic community, and is also increasingly interesting to the SUSE CaaS developers among the Kubic team as a potentially key part for a new design for future SUSE CaaS Platform versions. 
 
@@ -75,7 +75,7 @@ So if you have any ideas, or just need help to get started contributing, please 
 We are currently using this [Trello board](https://trello.com/b/wjHyQDK6/kubic-project) to track and organise our work.  
 Everyone can see what we're working on, all can comment, and if you want to join in just comment on the Welcome card or reach out to us via any other means to get added to the board.
 
-We're really excited to be taking Kubic in this new direction and hope the wider community support us and join in to making Kubic into the coolest, most practical, and most open community Kubernetes platform.
+We're really excited to be taking Kubic in this new direction and hope the wider community reading this support us in this new direction and help contribute to making Kubic into the coolest, most practical, and most open community Kubernetes platform.
 
 Thanks, and Have a lot of fun!
 
