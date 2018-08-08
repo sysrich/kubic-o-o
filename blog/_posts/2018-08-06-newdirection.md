@@ -24,7 +24,7 @@ We haven't just been busy on the basesystem. Our efforts with [Rootless Containe
 When we started in May 2017, SUSE were already well underway developing their first version of SUSE CaaS Platform. Alongside the general goal of making Kubic the easiest-to-live-with community Kubernetes distribution, a big part of the intial premise was to establish itself as a 'close upstream' community for SUSE CaaS Platform. In order set things up in a way similar to that you see between openSUSE Tumbleweed and SUSE Linux Enterprise), the plan was to rebase the SUSE CaaS Stack, including the Velum cluster bootstrapping tool onto the shared Kubic/Tumbleweed codebase. After a year, this goal has still proven elusive.
 
 This is for a number of reasons, including the wonderfully fast pace of change of Tumbleweed and aspects of the initial design of SUSE CaaS Platform which was conceptualised for the needs of SUSE's commercial customers, with the needs of developing within Kubic being an afterthought.  
-Obviously, this status quo has been tricky for all of us involved in Kubic, with the collective feeling being a desire to simultaniously close the gap between the Kubic and SUSE CaaS codebases, while also keeping up with the ever evolving container landscape, especially surrounding Kubernetes.
+Obviously, this status quo has been tricky for all of us involved in Kubic, with the collective feeling being a desire to simultaneously close the gap between the Kubic and SUSE CaaS codebases, while also keeping up with the ever evolving container landscape, especially surrounding Kubernetes.
 
 # The world has shifted
 
