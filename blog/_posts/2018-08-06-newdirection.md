@@ -28,7 +28,7 @@ Obviously, this status quo has been tricky for all of us involved in Kubic, with
 
 # The world has shifted
 
-Mentioning Kubernetes, it's worth considering just how much has changed with kubernetes upstream in the 2 years since SUSE CaaS Platform development began. Back then there was no common tool for setting up and configuring a Kubernetes cluster. This was one of the primary motiviators for creating `Velum`, a key part of the SUSE CaaS Stack. However these days there are multiple tools, including the increasingly pervasive [kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/) which is used both standalone and as an integrated part of many larger solutions. 
+Mentioning Kubernetes, it's worth considering just how much has changed with Kubernetes upstream in the 2 years since SUSE CaaS Platform development began. Back then there was no common tool for setting up and configuring a Kubernetes cluster. This was one of the primary motivators for creating `Velum`, a key part of the SUSE CaaS Stack. However, these days there are multiple tools, including the increasingly pervasive [kubeadm](https://kubernetes.io/docs/setup/independent/install-kubeadm/) which is used both standalone and as an integrated part of many larger solutions. 
 
 Kubeadm has already been actively worked on by a number in the Kubic community, and is also increasingly interesting to the SUSE CaaS developers among the Kubic team as a potentially key part for a new design for future SUSE CaaS Platform versions. 
 
@@ -75,7 +75,7 @@ So if you have any ideas, or just need help to get started contributing, please 
 We are currently using this [Trello board](https://trello.com/b/wjHyQDK6/kubic-project) to track and organise our work.  
 Everyone can see what we're working on, all can comment, and if you want to join in just comment on the Welcome card or reach out to us via any other means to get added to the board.
 
-We're really excited to be taking Kubic in this new direction and hope the wider community support us and join in to making Kubic into the coolest, most practical, and most open community Kubernetes platform.
+We're really excited to be taking Kubic in this new direction and hope the wider community reading this support us in this new direction and help contribute to making Kubic into the coolest, most practical, and most open community Kubernetes platform.
 
 Thanks, and Have a lot of fun!
 
